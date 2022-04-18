@@ -1,0 +1,13 @@
+uk\co\cypherlogic\OtpCipherIntegrationTest.class
+uk\co\cypherlogic\BitArrayTest.class
+uk\co\cypherlogic\TestResponse.class
+uk\co\cypherlogic\RsaCipherTest.class
+uk\co\cypherlogic\VigenereCipherTest.class
+uk\co\cypherlogic\DESCipherTest.class
+uk\co\cypherlogic\LFSRTest.class
+uk\co\cypherlogic\ScytaleCipherTest.class
+uk\co\cypherlogic\TripleDESTest.class
+uk\co\cypherlogic\CryptoUtilsTest.class
+uk\co\cypherlogic\BitTest.class
+uk\co\cypherlogic\VersionResourceIntegrationTest.class
+uk\co\cypherlogic\VigenereCipherIntegrationTest.class
